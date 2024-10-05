@@ -1,0 +1,30 @@
+.login{
+    width: 500px;
+    height: 500px;
+    margin: auto;
+    margin-top: 5rem;
+    text-align: center;
+    background-color: ghostwhite;
+   box-shadow: 0px 0px 10px gray; 
+   border-radius: 10px; 
+}
+.title{
+    height: 5rem;
+    background-color: rgb(75, 75, 231);
+    font-size: 2rem;
+    color: white;
+    padding-top: 1.3rem;
+    margin-bottom: 4rem;
+    border-top-left-radius:10px;
+    border-top-right-radius:10px;
+
+}
+#standard-basic{
+    width: 25rem;
+    margin-top: 1rem;
+}
+#btn{
+    margin-top: 2rem;
+    background-color: rgb(75, 75, 231);
+    width: 20rem;
+}
